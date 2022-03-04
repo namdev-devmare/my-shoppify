@@ -152,7 +152,7 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Column1",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -161,7 +161,7 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "Column2",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
