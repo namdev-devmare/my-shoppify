@@ -104,7 +104,7 @@
             "type": "announcement",
             "settings": {
               "text": "Welcome to our store",
-              "color_scheme": "background-2",
+              "color_scheme": "accent-1",
               "link": ""
             }
           }
