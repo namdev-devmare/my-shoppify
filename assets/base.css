@@ -2862,3 +2862,8 @@ details-disclosure > details {
     }
   }
 }
+
+/* custom style */
+span.saving {
+  color: red;
+}
