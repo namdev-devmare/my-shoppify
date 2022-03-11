@@ -91,4 +91,6 @@
     </span>
   {%- endif -%}
 </div>
+{% if compare_at_price > 0 %}
 <span class="saving">You Save: {{ compare_at_price | minus: price | times: 100 | divided_by: compare_at_price }}%</span>
+{% endif %}
